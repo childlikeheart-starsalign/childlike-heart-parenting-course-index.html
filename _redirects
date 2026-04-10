@@ -1,0 +1,4 @@
+# Cloudflare Pages: serve Page2.html for root and SEO slug (URL stays clean with 200 rewrite)
+/                                   /Page2.html   200
+/childlike-heart-parenting-course   /Page2.html   200
+/childlike-heart-parenting-course/  /Page2.html   200
